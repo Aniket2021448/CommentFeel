@@ -41,5 +41,5 @@ This project analyzes the sentiment of comments from a YouTube video using a pre
 5. Create a new Pull Request.
 
 ## Credits
-- Author: [Your Name]
-- GitHub: [Link to your GitHub profile or repository]
+- Author: Aniket Panchal
+- Email: AniketPanchal1257@gmail.com
